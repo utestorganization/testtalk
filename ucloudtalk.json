@@ -1,3 +1,3 @@
 {
-  "origins": ["https://docs.ucloud.cn"]
+  "origins": ["https://docs.ucloud.cn","http://localhost:8080"]
 }
