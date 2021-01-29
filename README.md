@@ -1,351 +1,131 @@
-#### Version 1.0
+#### Current Version 1.0
 
-# SCloud SLA 
+# SCloud-Cybree Privacy Policy 
 
 **Last Updated** 19 Jan. 2021
 
-This Service Level Agreement (this “SLA”) applies to the Service(s) that are used by the Customer ("you" or "your"), and is an integral part of your SCloud End User Licence Agreement (the “Customer Agreement”). Capitalized terms used in this SLA are as defined in the Customer Agreement unless otherwise stated in this SLA. Should there be any conflict or inconsistency between this SLA and the Customer Agreement, this SLA shall prevail to the extent of such conflict or inconsistency.
+SCloud Pte. Ltd. respects the privacy of your personal information. This Privacy Statement introduce how we collect and process your personal information (or “personal data”), for what purposes, and secure methods used to protect your personal information. SCloud offers varieties of Cloud products via www.scloud.sg and www.cybree.com. SCloud products referenced in this statement include SCloud & Cybree website, services, and applications (collectively, “SCloud Services”).
 
-SCloud may modify the terms of this SLA from time to time in its sole and absolute discretion. The modified SLA will be uploaded on SCloud's website and will apply from the effective date stated therein. Your continued use of the Services following the effective date of the modified SLA represents your consent and agreement to the modified SLA, and acceptance of the terms therein. If you disagree with the modified SLA, you may cease using the Services, subject to the termination provisions in the Customer Agreement.
+**This Privacy Statement does not apply to the personal information that collected and processed by our customers using** **SCloud** **Services with a** **SCloud** **account. Any collection and process carried out on behalf of our customers is not covered by this Privacy Statement. Since we do not have a direct relationship with the end users of** **SCloud** **customers, the related privacy inquiries should be directed to the organization that offer service and product**
 
-Except as set forth in the respective paragraphs relating to each Service below, or as otherwise stated in your Order Form, no service credits or other remedy (financial or otherwise) shall be provided to you due to the failure to meet a specified service level or standard for a specific Service.
+**If you use** **SCloud** **Services on behalf of or through your organization, your personal information may be subject to your organization’s Privacy Statement as well, and you should direct privacy inquiries to your organization.** 
 
-## General Terms
 
-### **1.** **Definitions**
 
-- **“Service Cycle”** means a natural month.
+## **1. Personal Information We Collect**
 
-- **“Total Time of Service Cycle”** means the total minutes during every Service Cycle.
+When you are using SCloud Services, we will collect your personal information. We collected your personal information with legal basis and purposes, such as with your consent, necessity to enter into and perform contracts, compliance with legal obligation, and any other purpose listed in the applicable laws. We collected your personal information by the following approaches:
 
-- **“Service Unavailable”** will be defined for each Service in the Service Specific Terms thereafter. Service Unavailable does not include the situation that Cloud Service is unavailable due to the disclaimers described blow and disclaimers in the following service specific terms.
+- **You give some of your personal information directly to us**, when you create or modify your SCloud account, contact to us, and purchase SCloud Services. 
+- **Other personal information is collected automatic by us**, when you visit, interact with or use SCloud Services (including when you use your computer or other device), or contact us.
 
-- **“Service Unavailable Duration”** means all the time when the Service is unavailable during a Service Cycle. If the duration is less than one month, it is still regarded as one month. Service Unavailable Duration cannot be calculated more than once. Every Service Unavailable Duration cannot be calculated again after the compensation being applied for.
+Depend on the scope of your interaction with SCloud Services, the categories of personal information we collected include:
 
-- **“Service Availability”** means during a Service Cycle, the service available percentage per Service Cycle achieved by the Cloud Service given in this SLA.
+- **Contact information: Name, Email address, Phone number, and other similar contact information**
+- **Identity information: Information regarding identify, such as passport, drive license, or other government-issued identification information**
+- **Credentials: Usernames, passwords, and other authentication and security credential information**
+- **Payment information: Credit card, bank account information, and other payment information**
+- **Demographic information: Age, gender, country, and preferred language**
+- **Internet or other similar network activity: Internet Protocol (IP), browsing history, search and commands history, and other interaction history**
+- **Computer and device information: Such as device, application, or browser type and version, browser plug-in type and version, operating system, location or time zone setting**
+- **Cookies information (See “Cookies” in this Privacy Statement)**
 
-- **“Monthly Service Fee”** means service fees paid by customers for the Services in a Service Cycle. For example, if the customer pays the service fee of several months at a time, the Monthly Service Fee is calculated as the total service fees paid divided by the total number of month.
+
+
+## **2. How We Use Personal Information**
+
+In order to operate, offer and improve SCloud Services, we need to collect and process your personal information. The purposes of collecting and processing are as follows:
+
+- **Offer** **SCloud** **Services: We use your personal information to operate, and deliver** **SCloud** **Services, as well as process related transactions, including registrations, subscriptions, purchases, and payments.**
+
+- **Measure, Support and Improve** **SCloud** **Services: We collect and process your personal information to measure the usage, analyze the performance, fix the error, offer the support, improve and develop** **SCloud** **Services.**
+
+- **Comply with Legal Obligations: We collect and process personal information as required by applicable law and regulation. e.g. Collecting age to ensure the compliance with the obligation to protect children’s privacy.**
+
+- **Communicate with You: We use your personal information to contact with you and respond to your request.**
+
+- **Advertising: We use your personal information to introduce** **SCloud** **Services (See “Advertising” in this Privacy Statement).**
+
+- **Other Purpose We Seek Your Consent: If we use your personal information for any other purposes that are not listed in this Privacy Statement, we will ask for your consent before we use it for the new purposes.**
 
   
 
-### **2.** **Service Credit**
+## 3. **Cookies**
 
-**Service Credit:** Service Credits are your sole and exclusive remedy for any performance or availability issues for any Service under the Agreement and this SLA. You may not unilaterally offset your Applicable Monthly Service Fees for any performance or availability issues.
+We use “cookies” and/or similar technologies to provide you with essential features and services. For instance, if you block or reject our cookies, you might not be able to use certain services that require you to sign in, or you might have to manually adjust some preferences or language settings every time you visit SCloud sites. 
 
-Service Credits apply only to fees paid for the particular Service, Service Resource, or Service tier for which a Service Level has not been met. In cases where Service Levels apply to individual Service Resources or to separate Service tiers, Service Credits apply only to fees paid for the affected Service Resource or Service tier, as applicable. The Service Credits awarded in any billing month for a particular Service or Service Resource will not, under any circumstance, exceed your monthly service fees for that Service or Service Resource, as applicable, in the billing month.
+A “cookie” is a small amount of data that is sent to your browser and stored on your device. A cookie can be sent to your device only if you access SCloud Platform with the device. If you do not de-activate or erase the cookie, each time you use the same device to access SCloud Platform, our web servers will be notified of your visit to our SCloud Platform and in turn we may recognize your visit and the pattern of your usage.
 
-If you purchased Services as part of a suite or other single offer, the Applicable Monthly Service Fees and Service Credit for each Service will be pro-rated.
+You can manage browser cookies through your browser settings. The 'Help' feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to get notification from browser when you receive a new cookie, how to disable cookies, and when cookies will expire. If you disable all cookies on your browser, neither we nor third parties will transfer cookies to your browser.
 
-If you purchased a Service from a reseller, you will receive a service credit directly from your reseller and the reseller will receive a Service Credit directly from us. The Service Credit will be based on the estimated retail price for the applicable Service, as determined by us in our reasonable discretion.
 
 
+## 4. **How We Share Personal Information**
 
-**Time limit for application:** you can apply for service credit in each Service Cycle after the bill are settled. The application must be filed within two (2) months after the end of the Service Cycle in which the incident that’s the subject of the claim occurred. Applications beyond the time limit will not be accepted. SCloud Cloud will make a reasonable assessment of all information provided to us and make a good faith decision on whether the service credit is owned.
+We do not sell your personal information to third parties. However, we may share your personal information as described below to complete transaction, or to offer SCloud Services you have requested or authorized, or to protect the property or rights of SCloud. The shared personal information subject to this Privacy Policy will be protected at least at the same level described in this Privacy Policy.
 
+- **Affiliates: We may share your personal information with** **SCloud** **affiliates and subsidiaries.** **SCloud** **is a global company and we have offices, datacenters and affiliates around the world. Your personal information may be accessed by these** **SCloud** **affiliates and subsidiaries companies for the purpose specified in this Privacy Statement;**
+- **Third-Party Service Providers: We may share your personal information with third-party service providers when we employ other companies to perform functions on our behalf. These third-party service providers may have access to personal information if the personal information is required for them to perform their functions and the third-party service providers are not allowed use it for other purposes;** 
+- **Other Third Parties Under Your Consent or Required by Applicable Law: We may share your personal information with other third parties under your consent or required by the law. For example, we may share personal information with law enforcement or other government agencies for complying with law or responding to legal process.**
 
 
-### **3.** **Disclaimers**
 
-This SLA does not apply to any performance and availability issues:
+## 5. **Location of Personal Information**
 
-a. caused by force majeure;
+SCloud Pte. Ltd. is located in Singapore, with our affiliates around the world. Personal information collected and processed by us may be stored and processed in your region or multiple countries, in accordance with the scope of using. If we transfer your personal information to another jurisdiction, we will ensure the personal information subject to this Privacy Statement is processed according to the provisions of the statement and the applicable data protection laws.
 
-b. that arise during the period when your Services are suspended or terminated according to the Customer Agreement;
 
-c. caused by you or any third party;
 
-d. caused by daily service maintenance;
+## 6. **How We Secure Personal Information**
 
-e. that arise due to your failure to comply with the operation guidance of the Services;
+The security of your personal information is very important to us. We apply variety of means of technologies and procedures to protect your personal information, such as.
 
-f. caused by a serious problem of the network operator.
+- **We use security technical for processing personal information, including but not limited to the use of industry-standard encryption protocol Secure Socket Layer (SSL) when transmit sensitive information(such as payment information, registration information, or password) over the internet.**
+- **We hold varieties of compliance program to ensure the security control, such as ISO/IEC 9001:2015, ISO/IEC 20000:2011, ISO/IEC 27001:2013.**
+- **We limit the collection and process of personal information. For people who have access to personal information for their work, we deploy access control to ensure that they only have access to necessary information and they are not allowed to use your personal information for other purposes.**
+- **We deployed physical, technical, and administrative security measures to protect our cloud environment and these security measures cover the collection, transmit, storage, and process of your personal information.** 
 
 
 
-##  **Service-Specific Terms**
+## **7. Your Rights to** **Access and Control Personal Information**
 
-**General service levels for the Services**
+You can access, update and delete your personal information subject to this Privacy Statement. You can view, update and delete your personal information by logging into your account.
 
-| **Monthly Uptime Percentage** | **Monthly**    |
-| ----------------------------- | -------------- |
-| < 99.95%                      | 21m 54 s       |
-| < 99.9%                       | 43m 49 s       |
-| < 99%                         | 7h 18m 17 s    |
-| < 95%                         | 1d 12h 31m 27s |
+We understand that not all personal data processed by SCloud can be accessed or controlled through account setting. If you want to access or control personal data processed by SCloud that is not available through account setting, you can always contact us by the means listed in the “How to Contact Us” section. We will respond to your request as soon as we can. Please note that in some cases, your ability of controlling of your personal information will be limited in accordance with applicable law. 
 
+You may receive marketing Email from us. If you would like to discontinue receiving this information, you may unsubscribe it through the “Unsubscribe” link in emails we send to you. For more information, please refer to the “Adverting” section in this Privacy Statement. 
 
 
-### **1. Cloud Server (HOST)**
 
-Definitions
+## **8. Advertising**
 
-**Cloud Server Unavailability** means the Cloud Server (HOST) system log shows that SHOST was inaccessible for one (1) or more consecutive minutes because of errors or incidents caused by SCloud.
+We will introduce some of our products to you through advertising by Email you give to us. The advertising is not based on your personal information. If you do not want to receive the advertisement anymore, you may unsubscribe it through the “Unsubscribe” link in emails we send to you.
 
-Disclaimers
 
-These service levels do not apply to any performance or availability issues: 
 
-1) Alteration, corruption, loss, or destruction of data kept by local disks, for example, the data of disk-intensive, ultra-high I/O and/or GPU-accelerated HOST stored in a local disk may be lost due to the damage of that disk.
+## **9. Children’s Personal Information**
 
-2) Caused by your operations such as stopping or restarting HOST instances or detaching cloud disks on the console, through APIs, at the command-line interface (CLI), or by other means.
+We do not knowingly collect personal data of children (person under the age of 16). When we collect age and find that your age is under 16, we will ask you to provide consent or authorization from your parent or guardian. Once the consent or authorization from parents or guardians is granted, we will treat the child’s account as it is an ordinary account.
 
-Service Availability
 
-**Service Availability Rate in each Service Cycle calculation formula:**
 
-Service Availability Rate in each Service Cycle = (Total Time of Service Duration - Service Unavailable Duration) / Total Time of Service Duration * 100%
+## **10. Retention of Personal Information**
 
-**Service Availability Rate commitment:**
+**We keep personal information no longer than the necessity of providing the** **SCloud** **Services and fulfill your requirement, or of other legitimate purposes such as complying with legal obligations, resolving disputes, and enforcing valid agreements. The actual retention period varies from different categories of personal information, due to the different using purpose. We will delete your personal information in accordance with applicable law and regulation.**
 
-SCloud will use commercially and technically reasonable efforts to make the Service Availability Rate of Cloud Server Unavailability per Service Cycle no less than 99.95%; 
 
-Service Credit
 
-If SCloud fails to meet the commitment above on Compute Service availability rate, SCloud will provide you with with Service Credits in accordance with the rates below:
+## 11. How to Contact Us
 
+If you want to exercise your rights or have any concerns, complaints or questions about privacy, you could contact us with verifiable and thorough request. You may contact us through one of the following methods:
 
+- **Email Address:** **enquiry@scloud.sg**
+- **Mailing Address:** **160 Robinson Road, #14-01, Singapore Business Federation Center, 068914**
 
-| **Monthly Uptime Percentage**           | **Service Credit**          |
-| --------------------------------------- | --------------------------- |
-| 99% ≤ Service Availability Rate <99.95% | 10% of Monthly Service Fee  |
-| 95% ≤ Service Availability Rate <99%    | 15% of Monthly Service Fee  |
-| Service Availability Rate <95%          | 100% of Monthly Service Fee |
+**Due to differences in local laws and languages, the local versions of** **SCloud** **Privacy Policy may differ from this version. In case of any conflicts, the local versions shall prevail.**
 
+ 
 
+## **12. Changes to This Privacy Statement**
 
-### **2. Elastic IP (EIP)**
-
-Definition
-
-**Service Unavailability** means the Elastic IP (EIP) system log showing that all data packets in the outbound direction are discarded at the SCloud gateway for one (1) or more consecutive minutes due to the fault of SCloud Cloud.
-
-Disclaimers
-
-This SLA does not apply to any performance or availability issues:
-
-1)   caused by hacker attacks on your applications, including but not limited to DDoS attacks.
-
-2)   caused by a faulty backend server.
-
-3)   caused by network operators.
-
-Service Availability
-
-Service Availability Rate in each Service Cycle is represented by the following formula:
-
-Service Availability Rate in each Service Cycle = (Total Time of Service Duration - Service Unavailable Duration)/Total Time of Service Duration * 100%
-
-Service Availability Rate commitment:
-
-SCloud will use commercially and technically reasonable efforts to make the Service Availability Rate of EIPs per Service Cycle no less than 99.95%
-
-Service Credit
-
-If SCloud fails to meet the above commitment, SCloud will provide you with Service Credits in accordance with the rates below:
-
-
- EIPs:
-
-| **Monthly Uptime Percentage**            | **Service Credit**         |
-| ---------------------------------------- | -------------------------- |
-| 98% ≤ Service Availability Rate < 99.95% | 10% of Monthly Service Fee |
-| Service Availability Rate < 98%          | 20% of Monthly Service Fee |
-
-
-
-### **3. Content Delivery Network (CDN)**
-
-Definitions
-
-**Number of 5xx response errors in five minutes:** Number of 5xx errors returned by the domain name due to CDN system problems in five minutes.
-
-**Number of failed requests due to node unavailability in five minutes:** If a node is unavailable, calculate the number of requests per five minutes based on the statistics of the first seven days, and then convert it to the number of failed requests due to node unavailability in five minutes.
-
-Error in five minutes = (Number of 5xx response error in five minutes + Number of failed requests due to node unavailability in five minutes) / Total number of requests in five minutes of the domain name
-
-**"Service Unavailability"** means the CDN system log shows that the error rate of CDN was greater than 0.05% within five (5) minutes for longer than consecutive 10 minutes because of SCloud Cloud.
-
-Disclaimers
-
-If you will have a sharp increase in CDN bandwidth usage (greater than or equal to 30% of the billed bandwidth for last month), you must submit a service ticket to inform SCloud at least three (3) business days in advance. Otherwise, SCloud will not be responsible for service unavailability resulting from this.
-
-Service Availability
-
-**Service Availability Rate in each Service Cycle calculation formula:**
-
-Service Availability Rate in each Service Cycle = (Total Time of Service Duration - Service Unavailable Duration) / Total Time of Service Duration * 100%
-
-**Service Availability Rate commitment:**
-
-SCloud will use commercially and technically reasonable efforts to make the Service Availability Rate of CDN per Service Cycle not less than 99.9%.
-
-Service Credit
-
-If SCloud fails to meet the above commitment, SCloud will provide you with Service Credits in accordance with the rates below:
-
-| **Monthly Uptime Percentage**        | **Service Credits** |
-| ------------------------------------ | ------------------- |
-| 99%≤Service Availability Rate <99.9% | 10%                 |
-| Service Availability Rate <99%       | 15%                 |
-
-
-
-
-
-### **4. Relational Database Service (RDS)**
-
-Definition
-
-**Service Unavailability** means the RDS system log shows that a DB instance was inaccessible for one (1) or more consecutive minutes because of SCloud.
-
-Service Availability
-
-**Service Availability Rate in each Service Cycle calculation formula:**
-
-Service Availability Rate in each Service Cycle = (Total Time of Service Duration - Service Unavailable Duration) / Total Time of Service Duration * 100%
-
-**Service Availability Rate commitment:**
-
-SCloud will use commercially and technically reasonable efforts to make the Service Availability Rate of Primary/standby (1/2) DB instances per Service Cycle no less than 99.99%; and Primary/standby DB instances per Service Cycle no less than 99.95%;
-
-Service Credit
-
-If SCloud fails to meet the commitment above on RDS Service Availability Rate, SCloud will provide you with Service Credits in accordance with the rates below: 
-
-| **Monthly Uptime Percentage**                      | **Service Credit**          |
-| -------------------------------------------------- | --------------------------- |
-| 99.0% ≤ Service Availability Rate <99.95%          | 10% of Monthly Service Fee  |
-| Less than 99.0% but equal to or greater than 95.0% | 30% of Monthly Service Fee  |
-| Less than 95.0%                                    | 100% of Monthly Service Fee |
-
-
-
-### **6. Memcache (SMEM)**
-
-Definition
-
-Service Unavailability means the SMEM was inaccessible for one (1) or more consecutive minutes because of SCloud.
-
-Service Availability
-
-Service Availability Rate in each Service Cycle calculation formula:
-
-Service Availability Rate in each Service Cycle = (Total Time of Service Duration - Service Unavailable Duration) / Total Time of Service Duration * 100%
-
-Service Commitment
-
-SCloud will use commercially reasonable efforts to make SMEM available with a Monthly Uptime Percentage of at least 99.95% (the "Service Commitment"). In the event a SMEM does not meet the Service Commitment, you will be eligible to receive a Service Credit as described below.
-
-Service Credit
-
-Service Credits are calculated as a percentage of the total charges paid by you for the affected SMEM for the monthly billing cycle in which the Service Commitment was not met, in accordance with the schedule below:
-
-| **Monthly Uptime Percentage**                      | **Service Credit**          |
-| -------------------------------------------------- | --------------------------- |
-| 99.0% ≤ Service Availability Rate <99.95%          | 10% of Monthly Service Fee  |
-| Less than 99.0% but equal to or greater than 95.0% | 30% of Monthly Service Fee  |
-| Less than 95.0%                                    | 100% of Monthly Service Fee |
-
-
-
-### **7. Storage Service** 
-
-Definition
-
-**Service Unavailability** means the UDISK system log shows that UDISK was inaccessible for five (5) or more consecutive minutes because of SCloud Cloud.
-
-Service Availability
-
-**Service Availability Rate in each Service Cycle calculation formula:**
-
-Service Availability Rate in each Service Cycle = (Total Time of Service Duration - Service Unavailable Duration) / Total Time of Service Duration * 100%
-
-Service Commitment
-
-SCloud will use commercially reasonable efforts to make the Included Services each available for each SCloud region with a Monthly Uptime Percentage of at least 99.95%, in each case during any monthly billing cycle (the “Service Commitment”). In the event any of the Included Services do not meet the Service Commitment, you will be eligible to receive a Service Credit as described below.
-
-Service Commitments and Service Credits
-
-Service Credits are calculated as a percentage of the total charges paid by you for the applicable Included Service in the affected SCloud region for the monthly billing cycle that did not meet the Service Commitment in accordance with the schedule below.
-
-| **Monthly Uptime Percentage**             | **Service Credit**         |
-| ----------------------------------------- | -------------------------- |
-| 95.0% ≤ Service Availability Rate <99.95% | 10% of Monthly Service Fee |
-| Less than 95%                             | 20% of Monthly Service Fee |
-
-
-
-### **8. Object Storage Service** 
-
-Definition
-
-**Service Unavailability** means the UF3 system log shows that UF3 was inaccessible for five (5) or more consecutive minutes because of SCloud Cloud.
-
-Service Availability
-
-**Service Availability Rate in each Service Cycle calculation formula:**
-
-Service Availability Rate in each Service Cycle = (Total Time of Service Duration - Service Unavailable Duration) / Total Time of Service Duration * 100%
-
-Service Availability Rate commitment: 
-
-SCloud will use commercially and technically reasonable efforts to make the Service Availability Rate of data stored in UF3 storage per Service Cycle no less than 99.95%; and Cloud Archive/Infrequency Access Storage per Service Cycle no less than 99.9%.
-
-Service Credit
-
-If SCloud fails to meet the commitment above on Object Storage Service Availability Rate, SCloud will provide you with Service Credits in accordance with the rates below, according to different storage classes in different AZ deployment: 
-
-**Data stored in UF3 Storage:** 
-
-| **Monthly Uptime Percentage**          | **Service Credit**         |
-| -------------------------------------- | -------------------------- |
-| 99% ≤Service Availability Rate <99.95% | 10% of Monthly Service Fee |
-| 95%≤Service Availability Rate <99%     | 15% of Monthly Service Fee |
-| Service Availability Rate <95%         | 20% of Monthly Service Fee |
-
-
-
-**Cloud Archive/Infrequency Access Storage:**
-
-| **Monthly Uptime Percentage**        | **Service Credit**         |
-| ------------------------------------ | -------------------------- |
-| 95%≤Service Availability Rate <99.9% | 10% of Monthly Service Fee |
-| Service Availability Rate <95%       | 15% of Monthly Service Fee |
-|                                      |                            |
-
-
-
-### **9. Advanced Anti-DDoS (AAD)**
-
-Definition
-
-**Service Unavailability** is the status that an AAD system was inaccessible and incapable of forwarding traffic for five (5) or more consecutive minutes. Duration of the inaccessibility and incapability that lasts shorter than five (5) minutes shall not be included.
-
-Disclaimers
-
-These service levels do not apply to any performance or availability issues: 
-
-1) Due to security threats or fraud or illegal acts caused by you or your end users to the Services;
-
-2) Issues in the back-end origin server, such as fully occupied bandwidth, exposed IP address, data center faults, and/or link jitter;
-
-3) Black holes caused by attack traffic exceeding your purchased AAD capability.
-
-Service Availability
-
-**Service Availability Rate in each Service Cycle calculation formula:**
-
-Service Availability Rate in each Service Cycle = (Total Time of Service Duration - Service Unavailable Duration) / Total Time of Service Duration * 100%
-
-**Service Availability Rate commitment:**
-
-SCloud will use commercially and technically reasonable efforts to make the Service Availability Rate of AAD per Service Cycle not less than 99.9%.
-
-Service Credit
-
-If SCloud fails to meet the above commitment, SCloud will provide you with Service Credits in accordance with the rates below:
-
-| **Monthly Uptime Percentage**        | **Service Credits**        |
-| ------------------------------------ | -------------------------- |
-| 95%≤Service Availability Rate <99.9% | 10% of Monthly Service Fee |
-| Less than 99.5%                      | 15% of Monthly Service Fee |
+**Our Privacy Statement may change due to the business change or the greater degree of transparency. You can check the date of the last version on the top of the Privacy Statement. The Privacy Statement will become immediately effective once it is posted on our website. If there are any material changes on this Privacy Statement, we will notify you by either sending an Email (specified by your account) or posting a notice on this website before the change becoming effective. Unless stated otherwise, all the personal information we hold about you and your account will subject to the latest version of our Privacy Statement. You are suggested to visit our website frequently to check the recent change. The continued use of the** **SCloud** **Services represents the consent of changes to the Privacy Statement.**
