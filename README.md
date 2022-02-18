@@ -1,6 +1,6 @@
 #### Current Version 1.0
 
-# SCloud-Cybree Privacy Policy 
+# SCloud-Cybree Privacy 
 
 **Last Updated** 19 Jan. 2021
 
